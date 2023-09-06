@@ -3,14 +3,14 @@
         "index.php" => [ 
             "menu_title" => "Accueil", 
             "head_title" => "Bienvenue sur mon portfolio",
-            "menu_icon" => "bi bi-house",
+            "menu_icon" => "fa-solid fa-house",
             "meta_description" => ""
         ],
 
         "competences.php" => [
             "menu_title" => "mes compétences", 
             "head_title" => "Tous les skills acquis",
-            "menu_icon" => "bi bi-book",
+            "menu_icon" => "fa-solid fa-book-open",
             "meta_description" => ""
         ],
 
@@ -24,7 +24,7 @@
         "propos.php" => [
             "menu_title" => "A propos", 
             "head_title" => "En savoir plus sur moi",
-            "menu_icon" => "bi bi-file-earmark-person",
+            "menu_icon" => "fa-solid fa-cat",
             "meta_description" => ""
         ],
 

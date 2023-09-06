@@ -64,3 +64,216 @@ p {
   width: 100%;
   height: 15vw;
   object-fit: cover; }
+
+section {
+  text-align: center; }
+  section .value .progress {
+    background-color: var(--primary);
+    width: 40%;
+    height: 1rem;
+    margin: auto; }
+    section .value .progress .value {
+      background-color: var(--secondary);
+      color: black; }
+      section .value .progress .value.v-0 {
+        width: 0%; }
+      section .value .progress .value.v-1 {
+        width: 1%; }
+      section .value .progress .value.v-2 {
+        width: 2%; }
+      section .value .progress .value.v-3 {
+        width: 3%; }
+      section .value .progress .value.v-4 {
+        width: 4%; }
+      section .value .progress .value.v-5 {
+        width: 5%; }
+      section .value .progress .value.v-6 {
+        width: 6%; }
+      section .value .progress .value.v-7 {
+        width: 7%; }
+      section .value .progress .value.v-8 {
+        width: 8%; }
+      section .value .progress .value.v-9 {
+        width: 9%; }
+      section .value .progress .value.v-10 {
+        width: 10%; }
+      section .value .progress .value.v-11 {
+        width: 11%; }
+      section .value .progress .value.v-12 {
+        width: 12%; }
+      section .value .progress .value.v-13 {
+        width: 13%; }
+      section .value .progress .value.v-14 {
+        width: 14%; }
+      section .value .progress .value.v-15 {
+        width: 15%; }
+      section .value .progress .value.v-16 {
+        width: 16%; }
+      section .value .progress .value.v-17 {
+        width: 17%; }
+      section .value .progress .value.v-18 {
+        width: 18%; }
+      section .value .progress .value.v-19 {
+        width: 19%; }
+      section .value .progress .value.v-20 {
+        width: 20%; }
+      section .value .progress .value.v-21 {
+        width: 21%; }
+      section .value .progress .value.v-22 {
+        width: 22%; }
+      section .value .progress .value.v-23 {
+        width: 23%; }
+      section .value .progress .value.v-24 {
+        width: 24%; }
+      section .value .progress .value.v-25 {
+        width: 25%; }
+      section .value .progress .value.v-26 {
+        width: 26%; }
+      section .value .progress .value.v-27 {
+        width: 27%; }
+      section .value .progress .value.v-28 {
+        width: 28%; }
+      section .value .progress .value.v-29 {
+        width: 29%; }
+      section .value .progress .value.v-30 {
+        width: 30%; }
+      section .value .progress .value.v-31 {
+        width: 31%; }
+      section .value .progress .value.v-32 {
+        width: 32%; }
+      section .value .progress .value.v-33 {
+        width: 33%; }
+      section .value .progress .value.v-34 {
+        width: 34%; }
+      section .value .progress .value.v-35 {
+        width: 35%; }
+      section .value .progress .value.v-36 {
+        width: 36%; }
+      section .value .progress .value.v-37 {
+        width: 37%; }
+      section .value .progress .value.v-38 {
+        width: 38%; }
+      section .value .progress .value.v-39 {
+        width: 39%; }
+      section .value .progress .value.v-40 {
+        width: 40%; }
+      section .value .progress .value.v-41 {
+        width: 41%; }
+      section .value .progress .value.v-42 {
+        width: 42%; }
+      section .value .progress .value.v-43 {
+        width: 43%; }
+      section .value .progress .value.v-44 {
+        width: 44%; }
+      section .value .progress .value.v-45 {
+        width: 45%; }
+      section .value .progress .value.v-46 {
+        width: 46%; }
+      section .value .progress .value.v-47 {
+        width: 47%; }
+      section .value .progress .value.v-48 {
+        width: 48%; }
+      section .value .progress .value.v-49 {
+        width: 49%; }
+      section .value .progress .value.v-50 {
+        width: 50%; }
+      section .value .progress .value.v-51 {
+        width: 51%; }
+      section .value .progress .value.v-52 {
+        width: 52%; }
+      section .value .progress .value.v-53 {
+        width: 53%; }
+      section .value .progress .value.v-54 {
+        width: 54%; }
+      section .value .progress .value.v-55 {
+        width: 55%; }
+      section .value .progress .value.v-56 {
+        width: 56%; }
+      section .value .progress .value.v-57 {
+        width: 57%; }
+      section .value .progress .value.v-58 {
+        width: 58%; }
+      section .value .progress .value.v-59 {
+        width: 59%; }
+      section .value .progress .value.v-60 {
+        width: 60%; }
+      section .value .progress .value.v-61 {
+        width: 61%; }
+      section .value .progress .value.v-62 {
+        width: 62%; }
+      section .value .progress .value.v-63 {
+        width: 63%; }
+      section .value .progress .value.v-64 {
+        width: 64%; }
+      section .value .progress .value.v-65 {
+        width: 65%; }
+      section .value .progress .value.v-66 {
+        width: 66%; }
+      section .value .progress .value.v-67 {
+        width: 67%; }
+      section .value .progress .value.v-68 {
+        width: 68%; }
+      section .value .progress .value.v-69 {
+        width: 69%; }
+      section .value .progress .value.v-70 {
+        width: 70%; }
+      section .value .progress .value.v-71 {
+        width: 71%; }
+      section .value .progress .value.v-72 {
+        width: 72%; }
+      section .value .progress .value.v-73 {
+        width: 73%; }
+      section .value .progress .value.v-74 {
+        width: 74%; }
+      section .value .progress .value.v-75 {
+        width: 75%; }
+      section .value .progress .value.v-76 {
+        width: 76%; }
+      section .value .progress .value.v-77 {
+        width: 77%; }
+      section .value .progress .value.v-78 {
+        width: 78%; }
+      section .value .progress .value.v-79 {
+        width: 79%; }
+      section .value .progress .value.v-80 {
+        width: 80%; }
+      section .value .progress .value.v-81 {
+        width: 81%; }
+      section .value .progress .value.v-82 {
+        width: 82%; }
+      section .value .progress .value.v-83 {
+        width: 83%; }
+      section .value .progress .value.v-84 {
+        width: 84%; }
+      section .value .progress .value.v-85 {
+        width: 85%; }
+      section .value .progress .value.v-86 {
+        width: 86%; }
+      section .value .progress .value.v-87 {
+        width: 87%; }
+      section .value .progress .value.v-88 {
+        width: 88%; }
+      section .value .progress .value.v-89 {
+        width: 89%; }
+      section .value .progress .value.v-90 {
+        width: 90%; }
+      section .value .progress .value.v-91 {
+        width: 91%; }
+      section .value .progress .value.v-92 {
+        width: 92%; }
+      section .value .progress .value.v-93 {
+        width: 93%; }
+      section .value .progress .value.v-94 {
+        width: 94%; }
+      section .value .progress .value.v-95 {
+        width: 95%; }
+      section .value .progress .value.v-96 {
+        width: 96%; }
+      section .value .progress .value.v-97 {
+        width: 97%; }
+      section .value .progress .value.v-98 {
+        width: 98%; }
+      section .value .progress .value.v-99 {
+        width: 99%; }
+      section .value .progress .value.v-100 {
+        width: 100%; }

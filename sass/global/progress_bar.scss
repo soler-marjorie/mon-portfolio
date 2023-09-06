@@ -1,0 +1,28 @@
+section{
+    text-align: center;
+
+    .value{
+        .progress{
+            background-color: var(--primary);
+            width: 40%;
+            height: 1rem;
+            margin: auto;
+
+            .value{
+                background-color: var(--secondary);
+                color: black; 
+
+                @for $value from 0 through 100{
+                    &.v-#{$value}{
+                        width : $value * 1%;
+                    }
+                }
+            }
+        }
+    }
+
+}
+
+
+
+
